@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from France: or, A true discovery of the practices of divers of our English fugitives there. Wherein maliciously they would engage the French King to give assistance to His Majesty against his high court of Parliament. With the King of France's answer to their malignant counsels. Sent in a letter from Paris to a person of good account in this city, and by him published. Whereunto is added a true copy of the Londoners last petition to the high court of Parliament for peace.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92716</idno>
+            <idno type="STC">Wing S200</idno>
+            <idno type="STC">Thomason E130_2</idno>
+            <idno type="STC">ESTC R1419</idno>
+            <idno type="EEBO-CITATION">99859626</idno>
+            <idno type="PROQUEST">99859626</idno>
+            <idno type="VID">111721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111721)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from France: or, A true discovery of the practices of divers of our English fugitives there. Wherein maliciously they would engage the French King to give assistance to His Majesty against his high court of Parliament. With the King of France's answer to their malignant counsels. Sent in a letter from Paris to a person of good account in this city, and by him published. Whereunto is added a true copy of the Londoners last petition to the high court of Parliament for peace.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Matthews,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: W. S.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis, --  King of France, 1601-1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIII, 1610-1643 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111721:1" rendition="simple:additions"/>
+            <p>NEWES FROM FRANCE: OR, A TRVE DISCOVERY Of the practiſes of divers of our Engliſh Fugitives there.</p>
+            <p>Wherein maliciouſly they would engage the French King to give aſſiſtance to His Majeſty againſt His High Court of PARLIAMENT.</p>
+            <p>With the King of FRANCE's Anſwer to their Malignant Counſels.</p>
+            <p>Sent in a Letter from PARIS to a perſon of good account in this City, and by him publiſhed.</p>
+            <p>Whereunto is added a true Copy of the <hi>Londoners</hi> laſt Petition to the high Court of Parliament for Peace.</p>
+            <figure>
+               <q xml:lang="lat">In DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Decemb: 12</add> LONDON, Printed for <hi>Iohn Matthewes.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111721:2"/>
+            <pb n="3" facs="tcp:111721:2"/>
+            <head>Newes from <hi>FRANCE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">L</seg>Etters (my deare friend) as well as kiſſes mingle ſoules: Your free and reall corre<g ref="char:EOLhyphen"/>ſpondence you have retained with me ſince my arrivall into theſe forraine parts, having conveyed my heart into thy bo<g ref="char:EOLhyphen"/>ſome, and tranſported thine hither as it were in a mutuall exchange. France is full of the Relation of the Engliſh affaires; with us in Paris there are many diſcourſes of the late battell, but I beleeve but a few true ones: though the Malignants and fugitives of our Nation here cry no the Cavaliers victorious, which we that love our Countrey hope is not truth. Here are rumours of Forces which the King of France has in Picardy at Calice, Bulloigne, and other oppoſite parts to our Engliſh ſhore, with a Fleet alſo in thoſe. Havens. I make no doubt but you have heard of them in England, whither ſome conjectured they were to be imployed; but I have with my moſt induſtrious care and my beſt intelligence ſtriv'd to get knowledge in that affaire, which <hi>bona fide</hi> I ſhall impart to you as I have received the notice from ſome of good and eminent credit in this Court. It is not unknowne to thee (gentle <hi>Will</hi>) that Paris and other parts of France have been the conſtant San<g ref="char:EOLhyphen"/>ctuary, to which our Engliſh Delinquents voted ſo ſince the Seſſion of the High Court of Parliament (I meane ſuch as could eſcape the Iſland) have reſotted for refuge, as Se<g ref="char:EOLhyphen"/>cretary <hi>Windebanke,</hi> Maſter <hi>Iermin,</hi> and the reſt of thoſe tur<g ref="char:EOLhyphen"/>bulent ſpirits, that like the fellow that ſet <hi>Diana's</hi> Temple on fire at Epheſus, onely to leave a memory though of miſ<g ref="char:EOLhyphen"/>chief to poſterity, ſought to acquire fame to themſelves by their Countries ruine. And theſe men have with their ut<g ref="char:EOLhyphen"/>moſt endeavours ſtriv'd to endeare their cauſe to the King of France, exemplifying the injuſtice of their ſufferings, and
+<pb n="4" facs="tcp:111721:3"/>candalizing as much as tis poſſible for perſons of their ſpleene and malice, the Intentions and actions of the Ho<g ref="char:EOLhyphen"/>nourable the High Court of Parliament; eſpecially Ma<g ref="char:EOLhyphen"/>ſter <hi>Iermin,</hi> who by the meanes of his acquaintance in the Court of France, where ſometimes hee was Em<g ref="char:EOLhyphen"/>baſſadour, and by the Commands of the Queene of England, hath indifferent reſpects, and free admittance into the ſociety of the beſt there; the King himſelf affording him his care very often: To whom hee did remonſtrate with much earneſtneſſe the affaires of his Majeſty of England, intimating how injuriouſly they dealt with him here; that he was in a manner expulſed by violence from his Palace; that his Royall Conſort, his Majeſties Siſter, the Queen, was as it were enforced to reſide for her ſafety in the Netherlands: That his Maſter the King could not with ſo much intereſt challenge aid, or expect ſuccours from any Prince of Chri<g ref="char:EOLhyphen"/>ſtendome, as from his Majeſty, being his next neighbour, and his brother: That hee was for the common intereſt of Kings, and their honour, engaged to the cauſe, being ſo pre<g ref="char:EOLhyphen"/>judiciall to Majeſty, to have ſubjects as it were give Lawes to their Prince: And therefore hedeſired his Majeſty would pleaſe to transferre an able Fleet, with good ſtore of am<g ref="char:EOLhyphen"/>munition, and all other military proviſion, into the North of England, for the Kings aſſiſtance, whom he was confident would make his Majeſty ample retribution for his curteſie, and be ready to ſerve him in any affaire with his beſt ability. The King of France (as I was credibly informed) ſhaping M. <hi>Iermyn</hi> this anſwer; That for his good Brother the King of Englands troubles, he was as much afflicted as if they had hapned to himſelfe; that he could heartily will that a ſud<g ref="char:EOLhyphen"/>den and faire attonement were made up between the King and his Parliament, whom hee conceived very honourably of; and that he could not beleeve ſo many brave and loyall men of ability and worth as were aſſembled in the preſent Parliament, would do any thing againſt their allegeance to their Soveraigne, or the peace and ſafety of the Kingdom; that it was abſolutely affirmed, that King <hi>Charles</hi> was rather miſ-informed againſt his Parliament by ſome Malignants,
+<pb n="5" facs="tcp:111721:3"/>then that his Parliament did either offer or intend any vio<g ref="char:EOLhyphen"/>lence to his ſacred perſon, or diminution to his royall dignity or Prerogative. That for the Queene his deare Siſter, hee conceived ſhe went into Holland for her healths ſake, and to accompany her daughter the Princeſſe, rather then of feare of her ſafety in England: That for the ſetting forth of any Fleet, or ſending hither any proviſions of War, as the caſe ſtood with him, though he would gladly furniſh his Majeſty with any aſſiſtance in his power, yet he could no way poſſi<g ref="char:EOLhyphen"/>ble grant his deſires, having imployment for all his ſhips, men, and ammunition; having the King of Spaine to ene<g ref="char:EOLhyphen"/>my in all parts of his Dominions, being enforced to keepe three ſeverall Armies on foot againſt him, <hi>viz.</hi> one in Pi<g ref="char:EOLhyphen"/>cardy, to ſecure thoſe Frontiers from the invaſion of the Low-countries; one in Gaſcony, to repell the attempts of the Biſcayners; and a third in Berne and Languedock, to aſ<g ref="char:EOLhyphen"/>ſiſt the Catalonians, that had put themſelves into his pro<g ref="char:EOLhyphen"/>tection: and that beſides hee did conceive he could not with the ſafety of the amity between France and Eng<g ref="char:EOLhyphen"/>land ſend any Forces into that Kingdome againſt the PARLIAMENT, which he conſidently belee<g ref="char:EOLhyphen"/>ved were full of duty and good intentions to the KING: and therefore prayed Maſter <hi>Iermin</hi> to ceaſe any further treaty in that behalfe which he could not in honour liſten to, nor withſafety put in practice, the Councell of <hi>France</hi> being not to be won to give their conſents to any thing that might infringe the league with <hi>England.</hi> Maſter <hi>Iermines</hi> cake being dowe, as the ſaying is, with this reply, and that refuſ<g ref="char:EOLhyphen"/>ſall of his purpoſe, hath not, to my beſt notice, ſince ſolici<g ref="char:EOLhyphen"/>ted his ſuit, but reſts here without much noyſe. And in good troth, if my bolt may be hot, in affaires ſo ſarre above my capacity, there is no poſſibility, had the <hi>French</hi> any in<g ref="char:EOLhyphen"/>tentions to attempt ought againſt the Kingdom of <hi>England,</hi> that it ſhould ſuit to any effect: the army and fleet which was at <hi>Calico</hi> and about thoſe parts, being billetted there<g ref="char:EOLhyphen"/>abouts meerly for the defence of thoſe Provinces againſt the incurſions of the <hi>Walloons,</hi> who from their garriſons of <hi>Graveling, Saint Omers, Bapam, Ayres, Bethun</hi> and <hi>Cambray,</hi>
+               <pb n="6" facs="tcp:111721:4"/>daily and mightily infeſt thoſe frontiers with their parties; and for any ſhips, they cannot peep: out of their ports of <hi>Bollone, Calico,</hi> or <hi>Haberdugrave,</hi> but the little <hi>Dunkerker</hi> hath them by the backe, who watch all advantages to ſur<g ref="char:EOLhyphen"/>prize the <hi>Frenches:</hi> and for any of the other parts of <hi>France,</hi> they are either too remote from our <hi>Engliſh</hi> coaſts, or unfur<g ref="char:EOLhyphen"/>niſh'd of any couſiderable number of veſſells. <hi>Burdeaux</hi> and the river of <hi>Garoune,</hi> which have the moſt and beſt ſhips be<g ref="char:EOLhyphen"/>ing very loth to have any enmity with <hi>England,</hi> whither they vend their wines, deriving to themſelves, and all the whole Countrey large annuall emoluments out of their traf<g ref="char:EOLhyphen"/>fique with that Kingdome; and for the ports of <hi>France</hi> in the <hi>Mediterranean</hi> ſeas, they were very ſimple that would imagine the King of <hi>France</hi> would bring any of his men of war from <hi>Marſeilles,</hi> which conſiſt moſt part of Galleys, in<g ref="char:EOLhyphen"/>to our ſeas, in which they are uſeleſſe by the long tract of the <hi>Spaniſh</hi> coaſts; being they muſt needs paſſe the ſtraights; which are conſtantly guarded with ſtore of able galleys, both to ſtop the paſſages of the <hi>Prench</hi> and <hi>Turks;</hi> ſo that the ma<g ref="char:EOLhyphen"/>lignants in <hi>England</hi> may as well hope for ſuccours out of the world in the Moone, as our of any part of <hi>Prance;</hi> and for ammunition, eſpecially powder and lead, the frequent and divers warres here have rendred it ſo ſcarce, that they would gladliet purchaſe it in <hi>England</hi> then export it out of their owne Countrey: this is my conjecture, in which I am certaine I have not drawne my arrow by ill aime, if I hit not the marke. For other newes here in <hi>Paris,</hi> it is all of the ordinary ſort; the nimble witted <hi>French</hi> Taylors have brought up a new faſhion of doublets, upon whoſe skirts none ſhall ſit, they being for their ſmalneſſe ſcarce diſcern<g ref="char:EOLhyphen"/>able, ſome thirty about a doublet: I make no doubt you will have it ere long with you in <hi>London,</hi> and be <hi>a la mode de France:</hi> there is rumour here, that the Pope is lately dead, and that there is like to be a ſhrewd contention among the Cardinalls. The <hi>Spaniſh</hi> faction ſtanding for Cardinall <hi>Sp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nola;</hi> and the <hi>French</hi> for the old Popes Nephew. Would all were peace in <hi>England,</hi> on the condition all the Conclave of them were at the gallowes, and ſo deareſt <hi>Will</hi> adieu, and be ſure there is nothing more pretious to me then thy love, I being ſo many wayes ingaged thy Servant, <hi>W. S.</hi>
+            </p>
+         </div>
+         <div type="petition_of_the_citizens_of_London">
+            <pb n="7" facs="tcp:111721:4"/>
+            <head>TO THE RIGHT HONOVRABLE THE <hi>LORDS</hi> and <hi>COMMONS</hi> Now aſſembled in the high Court of PARLIAMENT.</head>
+            <head type="sub">The humble Petition of divers Inhabitants of the City of <hi>LONDON,</hi> and the Liberties thereof.</head>
+            <opener>SHEVVETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the preſent ſenſe of our miſeries, and apprehenſion of inevitable ruine both of the Church and Common<g ref="char:EOLhyphen"/>wealth, make us to become humble duitors to this Honourable Aſſembly (the likeſt meanes under God for our reliefe) to conſider our diſtreſſed eſtates, and to provide a ſpeedy reme<g ref="char:EOLhyphen"/>dy for our preſent and future evills, earneſtly deſiring you to weigh the care and judgement of our Prediceſſors, who by a knowne Law, ſettled and pre<g ref="char:EOLhyphen"/>ſerved our Proteſtant Religion, our Liberties, and Proper<g ref="char:EOLhyphen"/>ties, with a right underſtanding between King and Subjects, which produced peace and plenty in our ſtreets.</p>
+            <pb n="8" facs="tcp:111721:5"/>
+            <p> And to reflect with ſerious thoughts upon our preſent diſtempers, violating Religion by Papiſts and Sectaries, en<g ref="char:EOLhyphen"/>gaging our Nation into a civill, bloody, and derſtructive war, invading our Lawes and Liberties, endangering all our lives, and utterly diſinabling us to relieve our diſtreſſed brethren in <hi>Ireland:</hi> We beſeech you likewiſe to conſider the effects of a continued war, as the diſtruction of Chriſtians, the un<g ref="char:EOLhyphen"/>naturall effuſion of blood; fathers againſt ſonnes, brothers by brothers, friends by friends ſlaine, then, famine and ſick<g ref="char:EOLhyphen"/>neſſe, the followers of a civill war, making way for a gene<g ref="char:EOLhyphen"/>rall confuſion, and invaſion by a forraigne Nation, while our Treaſure is exhauſted, our Trade loſt, and the Kingdome diſpeopled. Theſe things weighed and enlarged by your wiſedomes, we doubt not will be as ſtrong motives in you to labour, as in us to deſire a ſpeedy Peace, and a happy Accommodation.</p>
+            <p>Wherefore wee humbly crave, that (not lending an eare to any fomenters of theſe preſent wars under what pretence ſoever, nor remembring ought that may in<g ref="char:EOLhyphen"/>creaſe jealouſies, or continue diviſions betweene his Majeſty and his Houſe of Parliament) you will ſpeedi<g ref="char:EOLhyphen"/>ly tender his Majeſty (according to his Royall inimati<g ref="char:EOLhyphen"/>ons) ſuch Propoſitions for Accommodation, as hee may with honour and ſafety to the whole Kingdome accept. For effecting whereof, wee ſhall be ready to aſſiſt you with the beſt and utmoſt of our abilities, and whileſt you endeavour Peace, wee ſhall ſend up our Prayers to Heaven for the bleſſing of Peace upon you and all that deſire it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111721:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
